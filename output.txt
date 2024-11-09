@@ -1,2 +1,3 @@
-Account holder: Sayed
-Balance: 15000
+I am Constructor
+I am Display Method
+I am Destructor
