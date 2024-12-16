@@ -1,0 +1,61 @@
+Practice problem 1:
+
+You need to print the lines given below in the same format as it is -
+
+“Recently I heard that you’ve achieved 95% marks in your exam. 
+This is brilliant! 
+I wish you’ll shine in your life!	Good luck with all the barriers(/\) in your life.”
+
+
+
+
+Practice problem 2:
+
+subtraction, multiplication and division in the given format below.
+
+For example:
+Inputs are 5 and 2
+Then you’ll give output as:
+5 + 2 = 7
+5 - 2 = 3
+5 * 2 = 10
+5 / 2 = 2.50
+
+
+
+Practice problem 3:
+
+You need to take one non-negative integer (0 or greater than 0) value as input and tell if it is even or odd.
+See the sample input and output for more clarification.
+
+sample input:               sample output:
+10                          even
+3                           odd
+
+
+
+Practice problem 4:
+
+You need to take one integer value as input and tell if the value is positive or negative or zero.
+See the sample input and output for more clarification.
+
+sample input:               sample output:
+10                          positive
+-50                         negative
+0                           zero
+
+
+
+Practice problem 5:
+
+Suppose your friend has told you that she will buy a Gucci Bag if she has 10 thousand taka or more. Otherwise if she has 5 thousand taka or more, she will buy a Levis Bag. Otherwise she will buy Something from New Market. She also told you that, if she could buy the Gucci bag and she has more than 20 thousand taka she will also buy a Gucci Belt.
+
+Now, if you know the amount of money she has, can you tell which item/items she will buy?
+See the sample input and output for more clarification.
+
+sample input:               sample output:
+20000                       Gucci Bag
+6500                        Levis Bag
+200                         Something
+25400                       Gucci Bag
+                            Gucci Belt
