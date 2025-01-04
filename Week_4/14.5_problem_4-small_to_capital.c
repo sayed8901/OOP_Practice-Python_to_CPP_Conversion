@@ -2,9 +2,9 @@
 
 /* 
 sample input        output
-a                   97
-A                   65
-0                   48  
+a                   A
+z                   Z
+q                   Q 
 */
 
 

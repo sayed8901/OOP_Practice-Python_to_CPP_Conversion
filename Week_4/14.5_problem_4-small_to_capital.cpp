@@ -2,16 +2,16 @@
 
 /* 
 sample input        output
-a                   97
-A                   65
-0                   48  
+a                   A
+z                   Z
+q                   Q  
 */
 
 
 #include <iostream>
 using namespace std;
 
-char small_to_capital(char s) {
+char capital_to_small(char s) {
     char capital = s - 32;
     return capital;
 }
@@ -20,7 +20,7 @@ int main() {
     char s;
     cin >> s;
 
-    char capital_letter = small_to_capital(s);
+    char capital_letter = capital_to_small(s);
     cout << capital_letter;
 
     return 0;
